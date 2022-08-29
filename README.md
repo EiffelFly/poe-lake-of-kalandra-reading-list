@@ -10,11 +10,20 @@
 
 ## Reddit posts
 
+
+### 2022-08-29
+- [PSA : Gwennen heavily nerfed in 3.19 [u/pedrolopa]](https://www.reddit.com/r/pathofexile/comments/x05dq4/psa_gwennen_heavily_nerfed_in_319/)
+- [Lessons from Magic the Gathering [u/timelorddc]]https://www.reddit.com/r/pathofexile/comments/x02oga/lessons_from_magic_the_gathering/)
+
 ### 2022-08-28
 
+- [Loot is one thing but can we finally address how skill balance has consistently been atrocious for the 8 years that I've played this game? [u/GuyInUniverse]](https://www.reddit.com/r/pathofexile/comments/wzpg7p/loot_is_one_thing_but_can_we_finally_address_how/)
+- [GGG is already asking a LOT from the player [u/derennel]](https://www.reddit.com/r/pathofexile/comments/wzwmnd/ggg_is_already_asking_a_lot_from_the_player/)
 - [SSFSC thoughts on 3.19 [u/Blicktar]](https://www.reddit.com/r/pathofexile/comments/wz3yaj/ssfsc_thoughts_on_319/)
 - [I completed a run from 0 to Red maps yesterday and would like to share my thoughts on the justification that drop rates are perceived lower due to an "Out of Area" league mechanic. [u/lotteydottey]](https://www.reddit.com/r/pathofexile/comments/wz5il3/i_completed_a_run_from_0_to_red_maps_yesterday/)
 - [I feel GGG is wasting POE's biggest strength [u/q155]](https://www.reddit.com/r/pathofexile/comments/wzczda/i_feel_ggg_is_wasting_poes_biggest_strength/)
+- [Magic Find is bad game design, and GGG already created a better system: juicing maps [u/POEness]](https://www.reddit.com/r/pathofexile/comments/wzh4pv/magic_find_is_bad_game_design_and_ggg_already/)
+- [Why having to win the lottery feels needed and not satisfying to play. A reply to Chris Wilson's comment. [u/cCTaytea]](https://www.reddit.com/r/pathofexile/comments/wzu1ob/why_having_to_win_the_lottery_feels_needed_and/)
 
 ### 2022-08-27
 
