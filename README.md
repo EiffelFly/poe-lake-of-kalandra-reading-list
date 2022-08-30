@@ -20,7 +20,7 @@
 
 ### 2022-08-29
 - [PSA : Gwennen heavily nerfed in 3.19 [u/pedrolopa]](https://www.reddit.com/r/pathofexile/comments/x05dq4/psa_gwennen_heavily_nerfed_in_319/)
-- [Lessons from Magic the Gathering [u/timelorddc]]https://www.reddit.com/r/pathofexile/comments/x02oga/lessons_from_magic_the_gathering/)
+- [Lessons from Magic the Gathering [u/timelorddc]](https://www.reddit.com/r/pathofexile/comments/x02oga/lessons_from_magic_the_gathering/)
 - [I doubt that anyone cares, but melee is in the worst state it has ever been [u/Loanel]](https://www.reddit.com/r/pathofexile/comments/x0l8gi/i_doubt_that_anyone_cares_but_melee_is_in_the/)
 - [To Chris - We love you and this game, but something went wrong. No hate here, just words. [uUnreasonable_Moose]](https://www.reddit.com/r/pathofexile/comments/x0du3j/to_chris_we_love_you_and_this_game_but_something/)
 
