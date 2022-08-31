@@ -22,11 +22,20 @@
 - [The biggest problem with the current league, in my opinion, is that it generates FOMO. [u/damienreave]](https://www.reddit.com/r/pathofexile/comments/x1fln5/the_biggest_problem_with_the_current_league_in_my/)
 - [If GGG is going to continue the Problem/Solution format, I think they should start providing some context as to how they identified the problem to begin with. [u/amalgamemnon]](https://www.reddit.com/r/pathofexile/comments/x181s6/if_ggg_is_going_to_continue_the_problemsolution/)
 
+### 2022-08-30
+
+- [The most upvoted suggestions on the sub right now have one thing in common - players want more agency, not less [u/ergotpoisoning]](https://www.reddit.com/r/pathofexile/comments/x0wsdz/the_most_upvoted_suggestions_on_the_sub_right_now/)
+- [Kalandra Feedback from someone actually playing the game [u/thi3n]](https://www.reddit.com/r/pathofexile/comments/x0z3ux/kalandra_feedback_from_someone_actually_playing/)
+- [Archnemesis is here to stay, but can we tweak it during TIMED content? [u/MotherOfQuaggan]](https://www.reddit.com/r/pathofexile/comments/x0tq59/archnemesis_is_here_to_stay_but_can_we_tweak_it/)
+
+
 ### 2022-08-29
 - [PSA : Gwennen heavily nerfed in 3.19 [u/pedrolopa]](https://www.reddit.com/r/pathofexile/comments/x05dq4/psa_gwennen_heavily_nerfed_in_319/)
 - [Lessons from Magic the Gathering [u/timelorddc]](https://www.reddit.com/r/pathofexile/comments/x02oga/lessons_from_magic_the_gathering/)
 - [Dumb and easy compromise fix - loot TYPE shouldn't be tied to Archnemesis mods, even if IIQ and IIR are. [u/swords_meow]](https://www.reddit.com/r/pathofexile/comments/x0q0oe/dumb_and_easy_compromise_fix_loot_type_shouldnt/)
 - [I spent the last 2 hours IDing 9 quad stash tabs of rares (1,758 items) in SSF and these are the best items I got from it and some thoughts (and loot filter link included) [u/Professional-Gap3914]](https://www.reddit.com/r/pathofexile/comments/x0bqre/i_spent_the_last_2_hours_iding_9_quad_stash_tabs/)
+- [I doubt that anyone cares, but melee is in the worst state it has ever been [u/Loanel]](https://www.reddit.com/r/pathofexile/comments/x0l8gi/i_doubt_that_anyone_cares_but_melee_is_in_the/)
+- [To Chris - We love you and this game, but something went wrong. No hate here, just words. [uUnreasonable_Moose]](https://www.reddit.com/r/pathofexile/comments/x0du3j/to_chris_we_love_you_and_this_game_but_something/)
 
 ### 2022-08-28
 
