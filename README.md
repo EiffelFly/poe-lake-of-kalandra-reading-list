@@ -10,10 +10,23 @@
 
 ## Reddit posts
 
+### 2022-08-31
+
+- [Alch n' Go Andy project - 100 maps as an 'average player' (very long post warning) [u/Cyndershade]](https://www.reddit.com/r/pathofexile/comments/x1pklm/alch_n_go_andy_project_100_maps_as_an_average/)
+- [I think the community was already a powder keg about to blow long before now [u/Mystin]](https://www.reddit.com/r/pathofexile/comments/x1pauq/i_think_the_community_was_already_a_powder_keg/)
+
+
+### 2022-08-30
+
+[GGG's ideas have enormous potential, but conflicting visions hold them back. [u/ErenIsNotADevil]](https://www.reddit.com/r/pathofexile/comments/x0tel2/gggs_ideas_have_enormous_potential_but/)
+- [The biggest problem with the current league, in my opinion, is that it generates FOMO. [u/damienreave]](https://www.reddit.com/r/pathofexile/comments/x1fln5/the_biggest_problem_with_the_current_league_in_my/)
+- [If GGG is going to continue the Problem/Solution format, I think they should start providing some context as to how they identified the problem to begin with. [u/amalgamemnon]](https://www.reddit.com/r/pathofexile/comments/x181s6/if_ggg_is_going_to_continue_the_problemsolution/)
 
 ### 2022-08-29
 - [PSA : Gwennen heavily nerfed in 3.19 [u/pedrolopa]](https://www.reddit.com/r/pathofexile/comments/x05dq4/psa_gwennen_heavily_nerfed_in_319/)
-- [Lessons from Magic the Gathering [u/timelorddc]]https://www.reddit.com/r/pathofexile/comments/x02oga/lessons_from_magic_the_gathering/)
+- [Lessons from Magic the Gathering [u/timelorddc]](https://www.reddit.com/r/pathofexile/comments/x02oga/lessons_from_magic_the_gathering/)
+- [Dumb and easy compromise fix - loot TYPE shouldn't be tied to Archnemesis mods, even if IIQ and IIR are. [u/swords_meow]](https://www.reddit.com/r/pathofexile/comments/x0q0oe/dumb_and_easy_compromise_fix_loot_type_shouldnt/)
+- [I spent the last 2 hours IDing 9 quad stash tabs of rares (1,758 items) in SSF and these are the best items I got from it and some thoughts (and loot filter link included) [u/Professional-Gap3914]](https://www.reddit.com/r/pathofexile/comments/x0bqre/i_spent_the_last_2_hours_iding_9_quad_stash_tabs/)
 
 ### 2022-08-28
 
@@ -24,6 +37,8 @@
 - [I feel GGG is wasting POE's biggest strength [u/q155]](https://www.reddit.com/r/pathofexile/comments/wzczda/i_feel_ggg_is_wasting_poes_biggest_strength/)
 - [Magic Find is bad game design, and GGG already created a better system: juicing maps [u/POEness]](https://www.reddit.com/r/pathofexile/comments/wzh4pv/magic_find_is_bad_game_design_and_ggg_already/)
 - [Why having to win the lottery feels needed and not satisfying to play. A reply to Chris Wilson's comment. [u/cCTaytea]](https://www.reddit.com/r/pathofexile/comments/wzu1ob/why_having_to_win_the_lottery_feels_needed_and/)
+- [On death effects have made the game STRESSFUL [u/Pope-Touched-Me]](https://www.reddit.com/r/pathofexile/comments/wzbab7/on_death_effects_have_made_the_game_stressful/)
+- [It would feel much better if the rewards are more even distributed among the rares themselves. AN mob with 3+ mod but have the wrong combination of mods still drop nothing worthwhile. [u/harrisesque]](https://www.reddit.com/r/pathofexile/comments/wz4y87/it_would_feel_much_better_if_the_rewards_are_more/)
 
 ### 2022-08-27
 
