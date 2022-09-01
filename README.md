@@ -10,17 +10,26 @@
 
 ## Reddit posts
 
+### 2022-09-01
+
+- [GGG seems to be under the impression that the only way to increase engagement is to slow down player progression. I'd like to start a thread with the community's suggestions on how we'd stay engaged for longer *without* slowing down player progression. [u/amalgamemnon]](https://www.reddit.com/r/pathofexile/comments/x2rguq/ggg_seems_to_be_under_the_impression_that_the/)
+
 ### 2022-08-31
 
 - [Alch n' Go Andy project - 100 maps as an 'average player' (very long post warning) [u/Cyndershade]](https://www.reddit.com/r/pathofexile/comments/x1pklm/alch_n_go_andy_project_100_maps_as_an_average/)
 - [I think the community was already a powder keg about to blow long before now [u/Mystin]](https://www.reddit.com/r/pathofexile/comments/x1pauq/i_think_the_community_was_already_a_powder_keg/)
-
+- [Whether or not we like 3.19, I think accusing GGG of "staying silent" post-launch is ludicrous [u/moal09]](https://www.reddit.com/r/pathofexile/comments/x29z3y/whether_or_not_we_like_319_i_think_accusing_ggg/)
+- [A different perspective, or why some people also quit [u/MojordomosEUW]](https://www.reddit.com/r/pathofexile/comments/x22a4m/a_different_perspective_or_why_some_people_also/)
+- [An Imbalance in Motion, or: A Swordsman's Perspective on why Melee Sucks in Path of Exile
+ [u/ScintillatingSilver]](https://www.reddit.com/r/pathofexile/comments/x1ziiy/an_imbalance_in_motion_or_a_swordsmans/)
+- [My complete feedback for GGG as a player who is quitting out of protest. [u/wreathe_everyst]](https://www.reddit.com/r/pathofexile/comments/x1pqis/my_complete_feedback_for_ggg_as_a_player_who_is/)
 
 ### 2022-08-30
 
 [GGG's ideas have enormous potential, but conflicting visions hold them back. [u/ErenIsNotADevil]](https://www.reddit.com/r/pathofexile/comments/x0tel2/gggs_ideas_have_enormous_potential_but/)
 - [The biggest problem with the current league, in my opinion, is that it generates FOMO. [u/damienreave]](https://www.reddit.com/r/pathofexile/comments/x1fln5/the_biggest_problem_with_the_current_league_in_my/)
 - [If GGG is going to continue the Problem/Solution format, I think they should start providing some context as to how they identified the problem to begin with. [u/amalgamemnon]](https://www.reddit.com/r/pathofexile/comments/x181s6/if_ggg_is_going_to_continue_the_problemsolution/)
+- [GGG could have easily prevented MF cull meta with untying specific conversions from specific mods. But they decided to keep mods being specific "loot goblins". [u/Theio666]](https://www.reddit.com/r/pathofexile/comments/x1bpz9/ggg_could_have_easily_prevented_mf_cull_meta_with/)
 
 ### 2022-08-30
 
