@@ -13,6 +13,8 @@
 ### 2022-09-01
 
 - [GGG seems to be under the impression that the only way to increase engagement is to slow down player progression. I'd like to start a thread with the community's suggestions on how we'd stay engaged for longer *without* slowing down player progression. [u/amalgamemnon]](https://www.reddit.com/r/pathofexile/comments/x2rguq/ggg_seems_to_be_under_the_impression_that_the/)
+- [Honest Feedback Of the League (6 days /played) [u/SVNihilism]](https://www.reddit.com/r/pathofexile/comments/x32uci/honest_feedback_of_the_league_6_days_played/)
+- [Crimson Temple 1000 map feedback [u/HoldMaahDick]](https://www.reddit.com/r/pathofexile/comments/x2x38g/crimson_temple_1000_map_feedback/)
 
 ### 2022-08-31
 
