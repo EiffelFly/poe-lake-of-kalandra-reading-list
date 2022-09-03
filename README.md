@@ -10,6 +10,11 @@
 
 ## Reddit posts
 
+### 2022-09-02
+
+- [A concept for an entirely new crafting system. [u/diarmuidtherat]](https://www.reddit.com/r/pathofexile/comments/x3tfmr/a_concept_for_an_entirely_new_crafting_system/)
+- [After reading Bex's last post and considering how GGG will not back down on Archnemesis, I think it's nearing the time for me to say goodbye to a game I once enjoyed thoroughly. [u/expeLeviosa]](https://www.reddit.com/r/pathofexile/comments/x3ronu/after_reading_bexs_last_post_and_considering_how/)
+
 ### 2022-09-01
 
 - [GGG seems to be under the impression that the only way to increase engagement is to slow down player progression. I'd like to start a thread with the community's suggestions on how we'd stay engaged for longer *without* slowing down player progression. [u/amalgamemnon]](https://www.reddit.com/r/pathofexile/comments/x2rguq/ggg_seems_to_be_under_the_impression_that_the/)
