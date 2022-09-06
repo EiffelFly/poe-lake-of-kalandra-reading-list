@@ -3,12 +3,40 @@
 
 ## Official posts
 
+- [[2022-09-02] Following up on Recent Feedback](https://www.pathofexile.com/forum/view-thread/3304969)
+- [[2022-08-31] An Overview of Upcoming Changes](https://www.pathofexile.com/forum/view-thread/3303679)
 - [[2022-08-27] Tool-assisted Pantheon Mod Farming](https://www.pathofexile.com/forum/view-thread/3300949)
 - [[2022-08-26] What Happened with Items](https://www.pathofexile.com/forum/view-thread/3300117)
 - [[2022-08-24] Improvements to Item Drops](https://www.pathofexile.com/forum/view-thread/3298433)
 - [[2022-08-22] What we are working on](https://www.pathofexile.com/forum/view-thread/3296718)
 
 ## Reddit posts
+
+
+### 2022-09-05
+
+- [Why as a 5k+ Hours summoner andy i refuse to believe that GGG playtests their game anymore. [u/Qlida]](https://www.reddit.com/r/pathofexile/comments/x6n85c/why_as_a_5k_hours_summoner_andy_i_refuse_to/)
+- [Feedback From an Old Lady with ADHD [u/thetiresias]](https://www.reddit.com/r/pathofexile/comments/x6p8um/feedback_from_an_old_lady_with_adhd/)
+- [I feel like the harvest discussion is, of sorts, a red herring. The real issue is disagreement on speed and ease of progression. [u/Neltadouble]](https://www.reddit.com/r/pathofexile/comments/x5pyee/i_feel_like_the_harvest_discussion_is_of_sorts_a/)
+
+### 2022-09-04
+
+- [Am I Wrong, Or Does It seem that the leagues with the highest player power, have the highest player retention. [u/BouncingBladesJM]](https://www.reddit.com/r/pathofexile/comments/x6d4wh/am_i_wrong_or_does_it_seem_that_the_leagues_with/)
+- [Why don't use Rogue Exiles to accomplish what they want to accomplish with Archnemesis? [u/maraudertanking]](https://www.reddit.com/r/pathofexile/comments/x6cd5e/why_dont_use_rogue_exiles_to_accomplish_what_they/)
+- [Delirium was a fun league that burned me out because of "death anxiety" - Archnemesis is the same, but without the ability to opt out [u/aeblincoln]](https://www.reddit.com/r/pathofexile/comments/x5zu65/delirium_was_a_fun_league_that_burned_me_out/)
+- [Most of my deaths are coming from effects I can’t see. This is a problem. [u/Holybartender83
+]](https://www.reddit.com/r/pathofexile/comments/x5sl0w/most_of_my_deaths_are_coming_from_effects_i_cant/)
+- [Can we talk about Harbinger became the worst league mechanic in the game? [u/Nosorozhek]](https://www.reddit.com/r/pathofexile/comments/x5hjxn/can_we_talk_about_harbinger_became_the_worst/)
+- [GGG can we get an explanation on why making Harvest more accessible means that it has to be nerfed? [u/SrJuki]](https://www.reddit.com/r/pathofexile/comments/x5eitm/ggg_can_we_get_an_explanation_on_why_making/)
+- [GGG's fear of 'win more' gear, and the failure to design around the 3 month league cycle [u/nyssss]](https://www.reddit.com/r/pathofexile/comments/x5958p/gggs_fear_of_win_more_gear_and_the_failure_to/)
+- [Opinion: The writing is on the wall, PoE is going down the same path that killed the player base of WoW. The players vs devs attitude has been the downfall of many games. [u/a_random_RE]](https://www.reddit.com/r/pathofexile/comments/x55x0b/opinion_the_writing_is_on_the_wall_poe_is_going/)
+
+### 2022-09-03
+
+- [I hate Magic Find. [u/Kraere]](https://www.reddit.com/r/pathofexile/comments/x4rrh7/i_hate_magic_find/)
+- [This game requires so much effort to play now. [/GuyInUniverse]](https://www.reddit.com/r/pathofexile/comments/x4eauj/this_game_requires_so_much_effort_to_play_now/)
+- [Let's reflect on WHY has the negative feedback been so overwhelming. There have been big underlying issues left unattended for years, and they caused the core of the game to slowly rot. When GGG needed to lean on it, it all collapsed like a house of cards. [u/Awesome_Bruno]](https://www.reddit.com/r/pathofexile/comments/x4u7np/lets_reflect_on_why_has_the_negative_feedback/)
+- [It feels like we didn't overhaul defenses so much as overhaul auras, so that now defensive auras are mandatory, to stop us from running offensive auras [u/xyzpqr]](https://www.reddit.com/r/pathofexile/comments/x4gv79/it_feels_like_we_didnt_overhaul_defenses_so_much/)
 
 ### 2022-09-02
 
