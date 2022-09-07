@@ -13,11 +13,20 @@
 ## Reddit posts
 
 
+### 2022-09-06
+
+- [38/40 Challenges done, League in review [u/Balbasur]](https://www.reddit.com/r/pathofexile/comments/x7krfh/3840_challenges_done_league_in_review/)
+- [non-competitive game, balanced competitively. [u/emiracles]](https://www.reddit.com/r/pathofexile/comments/x6v3r6/noncompetitive_game_balanced_competitively/)
+- [95% of my map loot is coming from altars, boxes and arch nemesis monsters the 99% of monsters I kill drop practically nothing [u/Veteran_But_Bad]](https://www.reddit.com/r/pathofexile/comments/x7a7p7/95_of_my_map_loot_is_coming_from_altars_boxes_and/)
+- [The glory of PoE in 32:9 in screenshots - wow moments inside! [u/MasterHidra]](https://www.reddit.com/r/pathofexile/comments/x75exd/the_glory_of_poe_in_329_in_screenshots_wow/)
+- [Logout macros are the original sin of the design of Path of Exile. [u/Andromansis]](https://www.reddit.com/r/pathofexile/comments/x6psde/logout_macros_are_the_original_sin_of_the_design/)
+
 ### 2022-09-05
 
 - [Why as a 5k+ Hours summoner andy i refuse to believe that GGG playtests their game anymore. [u/Qlida]](https://www.reddit.com/r/pathofexile/comments/x6n85c/why_as_a_5k_hours_summoner_andy_i_refuse_to/)
 - [Feedback From an Old Lady with ADHD [u/thetiresias]](https://www.reddit.com/r/pathofexile/comments/x6p8um/feedback_from_an_old_lady_with_adhd/)
 - [I feel like the harvest discussion is, of sorts, a red herring. The real issue is disagreement on speed and ease of progression. [u/Neltadouble]](https://www.reddit.com/r/pathofexile/comments/x5pyee/i_feel_like_the_harvest_discussion_is_of_sorts_a/)
+
 
 ### 2022-09-04
 
