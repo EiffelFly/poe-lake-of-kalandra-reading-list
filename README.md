@@ -13,6 +13,21 @@
 ## Reddit posts
 
 
+### 2022-09-10
+
+- [You maybe wanted us to play longer. Instead we just quit earlier. [u/MidjitThud]](https://www.reddit.com/r/pathofexile/comments/xa35pa/you_maybe_wanted_us_to_play_longer_instead_we/)
+- [Neversink's feedback on the league after finishing 38/40 [u/tommos]](https://www.reddit.com/r/pathofexile/comments/xammuu/neversinks_feedback_on_the_league_after_finishing/)
+
+### 2022-09-09
+
+- [Fyregrass share about his thought of Kalandra's lore](https://www.reddit.com/r/pathofexile/comments/x90rin/comment/inog8cw)
+
+### 2022-09-08
+
+- [40/40 I fought, I lost. Now I rest. But you, GGG, you'll be fighting this battle forever. [u/Jakeer]](https://www.reddit.com/r/pathofexile/comments/x8pbot/4040_i_fought_i_lost_now_i_rest_but_you_ggg_youll/)
+- [After the balance patches on Archnemesis you asked for us to try it out and give more feedback. Here it is. [Warning] As there are ALOT of AN mods, this is a long read. Be prepared. [u/cCTaytea]](https://www.reddit.com/r/pathofexile/comments/x888ut/after_the_balance_patches_on_archnemesis_you/)
+- [I've spend almost 2 days writing this feedback for 3.19 patch. Almost 70 pages long. Looking for constructive discussion. [u/SpiderUrben]](https://www.reddit.com/r/pathofexile/comments/x8bo8o/ive_spend_almost_2_days_writing_this_feedback_for/)
+
 ### 2022-09-06
 
 - [38/40 Challenges done, League in review [u/Balbasur]](https://www.reddit.com/r/pathofexile/comments/x7krfh/3840_challenges_done_league_in_review/)
