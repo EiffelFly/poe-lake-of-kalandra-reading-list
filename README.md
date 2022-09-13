@@ -12,6 +12,11 @@
 
 ## Reddit posts
 
+### 2022-09-12
+
+- ["Deterministic" crafting is propaganda verbiage from GGGG [u/halpmeexole]](https://www.reddit.com/r/pathofexile/comments/xccqus/deterministic_crafting_is_propaganda_verbiage/)
+- [I hope POE 2 focuses more on controlled Risk and player agency rather than how heavily POE currently leans into Gamble and Chance. [u/Necro_eso]](https://www.reddit.com/r/pathofexile/comments/xbpols/i_hope_poe_2_focuses_more_on_controlled_risk_and/)
+- [How to make Archnemesis better and end the MF cull meta - Simple solution. [u/IVD1]](https://www.reddit.com/r/pathofexile/comments/xcbar5/how_to_make_archnemesis_better_and_end_the_mf/)
 
 ### 2022-09-10
 
