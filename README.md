@@ -12,6 +12,13 @@
 
 ## Reddit posts
 
+### 2022-09-13
+
+- [GGG has added too many damage over time and almost no DOT defences [u/HiddenExpert]](https://www.reddit.com/r/pathofexile/comments/xd1zi6/ggg_has_added_too_many_damage_over_time_and/)
+- [Stop tying loot to specific archnemesis modifiers which are encountered randomly. This is inconsistent with almost every current reward system in path of exile. [u/Faeshura]](https://www.reddit.com/r/pathofexile/comments/xd02la/stop_tying_loot_to_specific_archnemesis_modifiers/)
+- [The Tablet building minigame of Kalandra is such an ingenious concept. Here are couple of suggestions on how to improve it.. [u/npavcec]](https://www.reddit.com/r/pathofexile/comments/xchlhl/the_tablet_building_minigame_of_kalandra_is_such/)
+- [I've run 100 Mirrored Tablets made by myself. Calculated profit (including time spent making them), made a spreadsheet and came to some conclusions. [u/Zestyclose-Editor-50]](https://www.reddit.com/r/pathofexile/comments/xckw0x/ive_run_100_mirrored_tablets_made_by_myself/)
+
 ### 2022-09-12
 
 - ["Deterministic" crafting is propaganda verbiage from GGGG [u/halpmeexole]](https://www.reddit.com/r/pathofexile/comments/xccqus/deterministic_crafting_is_propaganda_verbiage/)
