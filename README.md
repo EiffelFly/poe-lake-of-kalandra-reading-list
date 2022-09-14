@@ -3,6 +3,7 @@
 
 ## Official posts
 
+- [[2022-09-13] Additional Upcoming Changes](https://www.pathofexile.com/forum/view-thread/3310192)
 - [[2022-09-02] Following up on Recent Feedback](https://www.pathofexile.com/forum/view-thread/3304969)
 - [[2022-08-31] An Overview of Upcoming Changes](https://www.pathofexile.com/forum/view-thread/3303679)
 - [[2022-08-27] Tool-assisted Pantheon Mod Farming](https://www.pathofexile.com/forum/view-thread/3300949)
