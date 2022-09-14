@@ -3,6 +3,7 @@
 
 ## Official posts
 
+- [[2022-09-13] Additional Upcoming Changes](https://www.pathofexile.com/forum/view-thread/3310192)
 - [[2022-09-02] Following up on Recent Feedback](https://www.pathofexile.com/forum/view-thread/3304969)
 - [[2022-08-31] An Overview of Upcoming Changes](https://www.pathofexile.com/forum/view-thread/3303679)
 - [[2022-08-27] Tool-assisted Pantheon Mod Farming](https://www.pathofexile.com/forum/view-thread/3300949)
@@ -11,6 +12,13 @@
 - [[2022-08-22] What we are working on](https://www.pathofexile.com/forum/view-thread/3296718)
 
 ## Reddit posts
+
+### 2022-09-13
+
+- [GGG has added too many damage over time and almost no DOT defences [u/HiddenExpert]](https://www.reddit.com/r/pathofexile/comments/xd1zi6/ggg_has_added_too_many_damage_over_time_and/)
+- [Stop tying loot to specific archnemesis modifiers which are encountered randomly. This is inconsistent with almost every current reward system in path of exile. [u/Faeshura]](https://www.reddit.com/r/pathofexile/comments/xd02la/stop_tying_loot_to_specific_archnemesis_modifiers/)
+- [The Tablet building minigame of Kalandra is such an ingenious concept. Here are couple of suggestions on how to improve it.. [u/npavcec]](https://www.reddit.com/r/pathofexile/comments/xchlhl/the_tablet_building_minigame_of_kalandra_is_such/)
+- [I've run 100 Mirrored Tablets made by myself. Calculated profit (including time spent making them), made a spreadsheet and came to some conclusions. [u/Zestyclose-Editor-50]](https://www.reddit.com/r/pathofexile/comments/xckw0x/ive_run_100_mirrored_tablets_made_by_myself/)
 
 ### 2022-09-12
 
