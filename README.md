@@ -13,6 +13,24 @@
 
 ## Reddit posts
 
+### 2022-09-17
+
+- [Topic about gearing charaters. The state of market suppy for minmaxing and "finishing builds" is atrocious! Nobody is crafting. The market and trading for above average items never felt worse. [u/npavcec]](https://www.reddit.com/r/pathofexile/comments/xfvpu9/topic_about_gearing_charaters_the_state_of_market/)
+
+### 2022-09-16
+
+- [Suggestion: GGG, I Think You Can Get Rid of "On-Death Skills" & "After-Death Damage" from Enemies (Now that Archnemesis is Here to Stay). [u/wrecker_of_days]](https://www.reddit.com/r/pathofexile/comments/xf59yh/suggestion_ggg_i_think_you_can_get_rid_of_ondeath/)
+
+### 2022-09-15
+
+- [The players need to stop gaslighting themselves.... [u/I_M_Jason_Gaming]](https://www.reddit.com/r/pathofexile/comments/xe3n9m/the_players_need_to_stop_gaslighting_themselves/)
+- [GGG consistently fails to understand the issue with minion survivability - And why it is killing the summoner archetype. [u/Qlida]](https://www.reddit.com/r/pathofexile/comments/xero59/ggg_consistently_fails_to_understand_the_issue/)
+- [I have reworked 110 endgame Unique weapons. [u/diarmuidtherat]](https://www.reddit.com/r/pathofexile/comments/xe9tfx/i_have_reworked_110_endgame_unique_weapons/)
+
+### 2022-09-14
+
+- [In a league where the league mechanic is mirrored jewelry, I hardly see anyone wearing mirrored jewelry. [u/Hopsalong]](https://www.reddit.com/r/pathofexile/comments/xdyv1y/in_a_league_where_the_league_mechanic_is_mirrored/)
+
 ### 2022-09-13
 
 - [GGG has added too many damage over time and almost no DOT defences [u/HiddenExpert]](https://www.reddit.com/r/pathofexile/comments/xd1zi6/ggg_has_added_too_many_damage_over_time_and/)
