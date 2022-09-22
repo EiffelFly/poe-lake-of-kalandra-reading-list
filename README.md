@@ -13,6 +13,10 @@
 
 ## Reddit posts
 
+### 2020-09-18
+
+- [Another Chinese company made almost complete mobile-pc POE knockoff, with full p2w, gacha and pity pulls, obviously. So I decided to take this opportunity and figure out if this piece of software did anything better than POE! This project took "a bit longer" than I initially expected (about 2 weeks) [u/Apxa]](https://www.reddit.com/r/pathofexile/comments/xhgdkr/another_chinese_company_made_almost_complete/)
+
 ### 2022-09-17
 
 - [Topic about gearing charaters. The state of market suppy for minmaxing and "finishing builds" is atrocious! Nobody is crafting. The market and trading for above average items never felt worse. [u/npavcec]](https://www.reddit.com/r/pathofexile/comments/xfvpu9/topic_about_gearing_charaters_the_state_of_market/)
